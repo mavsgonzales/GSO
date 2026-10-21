@@ -1,0 +1,1 @@
+barcode, property number, article road name, description, onhand quantity, unit, unit cost, onhand total value, status, location, accountable, designation, department, previously accountable, aquisition date, date surrendered, po number, pr number, invoice number, are number, air number remarks supplier, source of fund, general ledger
